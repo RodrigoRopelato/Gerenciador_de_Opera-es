@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\bin\Debug\netcoreapp3.1\Muito Dinheiro.exe
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\bin\Debug\netcoreapp3.1\Muito Dinheiro.deps.json
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\bin\Debug\netcoreapp3.1\Muito Dinheiro.runtimeconfig.json
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\bin\Debug\netcoreapp3.1\Muito Dinheiro.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\bin\Debug\netcoreapp3.1\Muito Dinheiro.dll
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\bin\Debug\netcoreapp3.1\Muito Dinheiro.pdb
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.dll
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.pdb
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito Dinheiro.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito_Dinheiro.TelaInicial.resources
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito_Dinheiro.CadastroOperacao.resources
+C:\Users\rodri\source\repos\Gerenciador de Operações\Muito Dinheiro\obj\Debug\netcoreapp3.1\Muito_Dinheiro.Relatorios.resources
