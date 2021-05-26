@@ -35,8 +35,8 @@ namespace Muito_Dinheiro
             string moedaDestino = comboBox_destino.Text;
             DateTime dataoperacao = DateTime.Now;
 
-
-            op = new Operacao(nome, moedaOrigem, moedaDestino, dataoperacao, valorOriginal);
+            
+            AdicionarItem(op = new Operacao(nome, moedaOrigem, moedaDestino, dataoperacao, valorOriginal));
 
             op.ConverterValor(valorOriginal, moedaOrigem, moedaDestino);
 
@@ -46,10 +46,25 @@ namespace Muito_Dinheiro
             lab_moeda1.Text = op.MoedaDestino;
             lab_moeda2.Text = op.MoedaDestino;
 
-            listaOp.Add(op);
+            
 
             MessageBox.Show("Registro gravado com sucesso!\n"+op,"Registro");
-            
+
+            textBox_nome.Focus();
+            textBox_dataOperaçao.Clear();
+            textBox_valorConverido.Clear();
+            textBox_taxa.Clear();
+            lab_moeda1.Text = "";
+            lab_moeda2.Text ="";
+            textBox_nome.Clear();
+            textBox_valor.Text = "0.00";
+            textBox_nome.Focus();
         }
+
+        private void AdicionarItem(Operacao operacao)
+        {
+            listaOp.Add(operacao);
+        }
+
     }
 }
